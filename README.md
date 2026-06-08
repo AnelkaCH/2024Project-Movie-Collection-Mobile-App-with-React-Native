@@ -1,8 +1,10 @@
 # Personal Movie Collection Mobile App
 
-A React Native mobile application for browsing a personal collection of movies. Users can explore recommended and top-rated films, view movie posters, and navigate to dedicated detail pages containing additional information about each title.
+(Note: This project was made in 2024, but I decided to upload it to GitHub in 2026 to keep it safe :D)
 
-This project was built in 2024 as an individual learning project while I was exploring React Native development. The movie data used throughout the application was created manually rather than pulled from an external API, allowing me to focus on application structure, navigation, and data handling.
+During my app dev journey, I had a weird obsession with movie reviews. Because of that, I wanted to create a React Native mobile application for browsing a personal collection of movies. Users can explore recommended and top-rated films, view movie posters, and navigate to dedicated detail pages containing additional information about each title.
+
+The movie data used throughout the application was created manually rather than pulled from an external API, allowing me to focus on application structure, navigation, and data handling.
 
 ## Features
 
@@ -52,11 +54,9 @@ This project helped me gain a deeper understanding of React Native and mobile ap
 
 Looking back, this project was an important step in moving beyond simple applications and becoming more comfortable building larger React Native projects.
 
-## Installation ⬇️
+## Setup ⬇️
 
 ```bash
-git clone https://github.com/AnelkaCH/Movie-Collection-Mobile-App-with-React-Native.git
-cd Movie-Collection-Mobile-App-with-React-Native
 npm install
 ```
 
