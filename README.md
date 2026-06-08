@@ -55,8 +55,8 @@ Looking back, this project was an important step in moving beyond simple applica
 ## Installation ⬇️
 
 ```bash
-git clone //add//
-cd Guess-The-Country-Mobile-App
+git clone https://github.com/AnelkaCH/Movie-Collection-Mobile-App-with-React-Native.git
+cd Movie-Collection-Mobile-App-with-React-Native
 npm install
 ```
 
@@ -67,8 +67,6 @@ npx react-native run-android
 ```
 
 ## Screenshots
-
-Screenshots will be added here.
 
 ### Home Screen
 
