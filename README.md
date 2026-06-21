@@ -1,4 +1,4 @@
-# Personal Movie Collection Mobile App
+# Personal Movie Collection Mobile App 🎥
 
 (Note: This project was made in 2024, but I decided to upload it to GitHub in 2026 to keep it safe :D)
 
@@ -54,7 +54,7 @@ This project helped me gain a deeper understanding of React Native and mobile ap
 
 Looking back, this project was an important step in moving beyond simple applications and becoming more comfortable building larger React Native projects.
 
-## Setup ⬇️
+## Setup 
 
 ```bash
 npm install
@@ -84,19 +84,13 @@ npx react-native run-android
 
 ![Details](screenshots/detail.png)
 
-## Project Status
+## Acknowledgements
 
-This project was originally created in 2024 and has not been actively maintained since then. Because of that, I cannot guarantee that it works perfectly with the latest React Native versions and dependencies.
-
-If you encounter any issues while running the project, feel free to open an issue or submit a pull request.
-
-## Feedback
-
-Even though this is an older project, I would still appreciate any feedback or suggestions for improvement. Feel free to share ideas, point out potential improvements, or discuss alternative approaches.
-
-## License
-
-This project is available for educational and portfolio purposes.
+This project was developed as part of a React Native learning course. While some starter files were provided, the application logic, landmark dataset, and overall implementation were developed by me as part of the learning process.
+- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
+- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
+- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
+- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
 
